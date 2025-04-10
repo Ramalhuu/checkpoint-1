@@ -1,15 +1,15 @@
-var a = 1
-var b = 2
+var a = 1//ok
+var b = 2//ok
 
-let nome = "nome"
-let sobrenome = "sobrenome"
+let nome = "nome"//ok
+let sobrenome = "sobrenome"//ok
 
-const pi = 3.14
-const nomeverdadeiro = "felipe"
+const pi = 3.14//ok
+const nomeverdadeiro = "felipe"//ok
 
-console.log("O valor inicial de a: ", a)
-console.log("O valor inicial de b: ", b)
-console.log("O valor inicial de nome: ", nome)
-console.log("O valor inicial de sobrenome: ", sobrenome)
-console.log("O valor inicial de pi: ", pi)
-console.log("O valor inicial de nome verdadeiro: ", nomeverdadeiro)
+console.log("O valor inicial de a: ", a)//ok
+console.log("O valor inicial de b: ", b)//ok
+console.log("O valor inicial de nome: ", nome)//ok
+console.log("O valor inicial de sobrenome: ", sobrenome)//ok
+console.log("O valor inicial de pi: ", pi)//ok
+console.log("O valor inicial de nome verdadeiro: ", nomeverdadeiro)//ok
